@@ -13,7 +13,7 @@ telecom customer churn data.
 
 ## 📁 Data Source
 - The dataset is based on a **Telecom Customer Churn** dataset commonly used in Power BI learning.
-- `telecom_data_clean.csv` is the cleaned version of the data used for this dashboard.
+- `telecom_data_clean.xlsx` is the cleaned version of the data used for this dashboard.
 - The dataset is used only for **visualization and learning purposes**.
 
 ## 🧠 Learning Scope
